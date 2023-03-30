@@ -1,0 +1,5 @@
+module load miniconda; conda activate /gpfs/gibbs/project/phys678/phys678_dcm42/conda_envs/phys678; python calc_pi.py 1
+module load miniconda; conda activate /gpfs/gibbs/project/phys678/phys678_dcm42/conda_envs/phys678; python calc_pi.py 2
+module load miniconda; conda activate /gpfs/gibbs/project/phys678/phys678_dcm42/conda_envs/phys678; python calc_pi.py 3
+module load miniconda; conda activate /gpfs/gibbs/project/phys678/phys678_dcm42/conda_envs/phys678; python calc_pi.py 4
+module load miniconda; conda activate /gpfs/gibbs/project/phys678/phys678_dcm42/conda_envs/phys678; python calc_pi.py 5
